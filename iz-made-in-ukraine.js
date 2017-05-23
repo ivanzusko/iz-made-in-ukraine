@@ -532,14 +532,18 @@ class MadeInUkraine extends HTMLElement {
         
         this.div = document.createElement('div');
         this.div.id = 'made-in-ukraine';
-        this.div.style.width = '100vw';
+        this.div.style.minWidth = '100px';
         this.div.style.height = 'auto';
         this.div.innerHTML = svg;
         shadow.appendChild(this.div);
     }
 
     connectedCallback() {
-      this.div.style.maxWidth = this.dataset.maxWidth;
+      const props = this.dataset;
+
+      for (let key in props) {
+        this.div.style[key] = props[key];
+      }
     }
 }
 

@@ -12,9 +12,17 @@ My very first custom element which just displays svg barcode with **Made in Ukra
 </custom-element-demo>
 ```
 -->
+
+
+## Usage
+You can pass any valid css property via `data-` if is needed:
 ```html
-<iz-made-in-ukraine></iz-made-in-ukraine>
+<iz-made-in-ukraine 
+    data-max-width="200px"
+    data-background-color="#f4f4f4"></iz-made-in-ukraine>
 ```
+By default it will be `100px` minimal width, but will take the full width of the parent
+
 
 ## License
 MIT
