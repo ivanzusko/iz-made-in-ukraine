@@ -1,5 +1,7 @@
 # iz-made-in-ukraine
 
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/ivanzusko/iz-made-in-ukraine)
+
 My very first custom element which just displays svg barcode with **Made in Ukraine** sign
 
 <!--
