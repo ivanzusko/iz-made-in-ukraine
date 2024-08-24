@@ -5,7 +5,7 @@
   <a href="https://www.npmjs.com/package/iz-made-in-ukraine" target="_blank"><img src="https://img.shields.io/npm/v/iz-made-in-ukraine.svg"></a>
   <img src="https://img.shields.io/github/issues/ivanzusko/iz-made-in-ukraine.svg" alt="opened issues" />
   <img src="https://img.shields.io/github/issues-closed-raw/ivanzusko/iz-made-in-ukraine.svg" alt="closed issues" />
-  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/npm/l/riz-made-in-ukraine.svg"></a>
+  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/npm/l/iz-made-in-ukraine.svg"></a>
 </p>
 
 My very first custom element which just displays svg barcode with **Made in Ukraine** sign
