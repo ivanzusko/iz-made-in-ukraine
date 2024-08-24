@@ -1,6 +1,6 @@
 {
   "name": "iz-made-in-ukraine",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "description": "My very first custom element which just displays svg barcode with `Made in Ukraine` sign",
   "main": "iz-made-in-ukraine.js",
   "scripts": {
@@ -17,9 +17,7 @@
     "svg",
     "barcode"
   ],
-  "author": [
-    "Ivan Zusko <ivan.zusko@gmail.com>"
-  ],
+  "author": "Ivan Zusko <ivan.zusko@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ivanzusko/iz-made-in-ukraine/issues"
