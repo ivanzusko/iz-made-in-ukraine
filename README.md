@@ -2,6 +2,14 @@
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/ivanzusko/iz-made-in-ukraine)
 
+<p align="center">
+  <a href="https://www.webcomponents.org/element/iz-made-in-ukraine" target="_blank"><img src="https://img.shields.io/badge/webcomponents.org-published-blue.svg"></a>
+  <a href="https://www.npmjs.com/package/iz-made-in-ukraine" target="_blank"><img src="https://img.shields.io/npm/v/iz-made-in-ukraine.svg"></a>
+  <img src="https://img.shields.io/github/issues/ivanzusko/iz-made-in-ukraine.svg" alt="opened issues" />
+  <img src="https://img.shields.io/github/issues-closed-raw/ivanzusko/iz-made-in-ukraine.svg" alt="closed issues" />
+  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/npm/l/riz-made-in-ukraine.svg"></a>
+</p>
+
 My very first custom element which just displays svg barcode with **Made in Ukraine** sign
 
 <img width="227" alt="image" src="https://github.com/user-attachments/assets/f0790eb3-2c36-4508-95f3-f220231cafd4">
